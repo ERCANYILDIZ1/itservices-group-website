@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 120" role="img" aria-label="IT Services Group logo">
+  <title>IT Services Group</title>
+  <g transform="translate(10,10)">
+    <g stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round">
+      <polygon points="50,8 86.4,29 50,50 13.6,29" fill="#2F6BFF"/>
+      <polygon points="13.6,29 50,50 50,92 13.6,71" fill="#0B1F3A"/>
+      <polygon points="50,50 86.4,29 86.4,71 50,92" fill="#17B3A3"/>
+    </g>
+    <circle cx="50" cy="50" r="5" fill="#FFFFFF"/>
+  </g>
+  <text x="128" y="64" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#0B1F3A" letter-spacing="-1">IT Services</text>
+  <text x="131" y="96" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#2F6BFF" letter-spacing="9">GROUP</text>
+</svg>

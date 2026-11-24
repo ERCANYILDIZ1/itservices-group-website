@@ -25,7 +25,7 @@ Open `index.html` or `privacy.html` in any text editor and change the words betw
 Business details appear in several places. If they change, search the whole folder and update every occurrence:
 
 - Company number `17572727` – contact section, footer, privacy page, and the JSON-LD block in the `<head>` of `index.html`.
-- Registered office – search for `[TO CONFIRM]` (contact section, footer, privacy page). Use the address **exactly** as shown on Companies House.
+- Registered office `8 Chaseville Parade, Chaseville Park Road, London, N21 1PG, United Kingdom` – contact section, footer, privacy page, and the JSON-LD `address` in `index.html`. Use the address **exactly** as shown on Companies House.
 - Email `info@itservices.group`.
 
 Keep the legal name, company number, address and email as plain text – Apple's business verification checks them against Companies House and D-U-N-S.
